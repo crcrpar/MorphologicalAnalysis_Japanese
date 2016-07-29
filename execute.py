@@ -2,7 +2,6 @@
 # -*- coding:utf-8 -*-
 '''
 Python 3.5.2 :: Anaconda 4.1.1 (x86_64)
-/Users/kozukimasaki/anaconda/envs/mecab/bin/python
 '''
 
 import MeCab
